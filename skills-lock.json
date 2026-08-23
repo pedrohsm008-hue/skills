@@ -91,6 +91,12 @@
       "skillPath": "skills/offers/SKILL.md",
       "computedHash": "4e49425fc003bfc113cee7757ffa57de0859b1903dec89973cc599c42fca8942"
     },
+    "omni-combos-routing": {
+      "source": "diegosouzapw/omniroute",
+      "sourceType": "github",
+      "skillPath": "skills/omni-combos-routing/SKILL.md",
+      "computedHash": "6cf7fdbf5fa84764cdceef3e1f3dcd0b4099a0b1f1121bf7c90b02e9e07d599a"
+    },
     "refero-design": {
       "source": "referodesign/refero_skill",
       "sourceType": "github",
