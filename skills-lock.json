@@ -13,6 +13,12 @@
       "skillPath": ".agents/skills/audit/SKILL.md",
       "computedHash": "266c6469c19df55d88e3d027d6f167ca5c3626d8f2b4bfc7fac83b571fa8b92b"
     },
+    "ci-security-scanning-with-strix": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/ci-security-scanning-with-strix/SKILL.md",
+      "computedHash": "1a9d9b999278fa24860eee4dcf3bb33994991ad55b6ea4b0e62e048e6a06417a"
+    },
     "copywriting": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
@@ -30,6 +36,12 @@
       "sourceType": "github",
       "skillPath": "skills/extract-design-system/SKILL.md",
       "computedHash": "5f231fda377e304b202848f09ecc0fd42839355e76f60e06c3ceb7a643c15500"
+    },
+    "fix-security-vulnerabilities-with-strix": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/fix-security-vulnerabilities-with-strix/SKILL.md",
+      "computedHash": "2bb121ea7c1843742ef9a3ae786034ec220f49f5865f165a29c1ab8fcbe79dc9"
     },
     "frontend-design": {
       "source": "anthropics/skills",
@@ -55,6 +67,12 @@
       "skillPath": "skills/gsap-timeline/SKILL.md",
       "computedHash": "54981c2feec5a9c0d57988aeb32315af32bdeadd261550d5e9db7a7b1f08b487"
     },
+    "managed-pentesting-with-strix": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/managed-pentesting-with-strix/SKILL.md",
+      "computedHash": "a95f715e62d91842511a85a5725417aaf9db08227ec7d7311bdfb7a51a04089f"
+    },
     "marketing-psychology": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
@@ -66,6 +84,12 @@
       "sourceType": "github",
       "skillPath": "skills/offers/SKILL.md",
       "computedHash": "9f8781bc04889a6f2f23a7167384976bfaf2709da31a2b92d17cc3cbfca84cd4"
+    },
+    "penetration-testing-with-strix": {
+      "source": "usestrix/strix",
+      "sourceType": "github",
+      "skillPath": "skills/penetration-testing-with-strix/SKILL.md",
+      "computedHash": "9e6b38534b728c0c2ea7ceee52fb23357cba25a96da7b239ad7c2029270527eb"
     },
     "product-marketing": {
       "source": "coreyhaines31/marketingskills",
