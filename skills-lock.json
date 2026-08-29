@@ -97,6 +97,12 @@
       "skillPath": "skills/product-marketing/SKILL.md",
       "computedHash": "b8a9cd747705923a7a29cda12e478594e3a5062d8f7c7bfbf19d7fc0b24cee76"
     },
+    "task-observer": {
+      "source": "rebelytics/one-skill-to-rule-them-all",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "625afba7a97cbebb8dee848e341f57f86e59be83d1ee5ab342748bca35162126"
+    },
     "three-js": {
       "source": "mindrally/skills",
       "sourceType": "github",
