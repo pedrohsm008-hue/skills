@@ -13,6 +13,12 @@
       "skillPath": ".agents/skills/audit/SKILL.md",
       "computedHash": "266c6469c19df55d88e3d027d6f167ca5c3626d8f2b4bfc7fac83b571fa8b92b"
     },
+    "caveman": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman/SKILL.md",
+      "computedHash": "2bc96f7c5d3c82f76714d9ec5027ef72518ede527b009a4cab6afd6db339ada9"
+    },
     "ci-security-scanning-with-strix": {
       "source": "usestrix/strix",
       "sourceType": "github",
