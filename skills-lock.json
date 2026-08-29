@@ -91,6 +91,12 @@
       "skillPath": "skills/penetration-testing-with-strix/SKILL.md",
       "computedHash": "9e6b38534b728c0c2ea7ceee52fb23357cba25a96da7b239ad7c2029270527eb"
     },
+    "ponytail": {
+      "source": "dietrichgebert/ponytail",
+      "sourceType": "github",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "computedHash": "210fa0831f649ce9f8a305f7b7c8cf2a0dd09ac4dd53067109941b96e7811d4e"
+    },
     "product-marketing": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
